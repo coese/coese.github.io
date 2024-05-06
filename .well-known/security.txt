@@ -1,6 +1,6 @@
 # Para entrar em contato | To get in touch
 Preferred-Languages: pt-br
 Contact:   mailto:rfc9116@schuffner.com.br
-
+# GB
 Canonical: https://schuffner.com.br/.well-known/security.txt
 Expires:   2025-01-01T01:22:00.000Z
