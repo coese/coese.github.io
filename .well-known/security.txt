@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-# CE
+# GB
 # Para entrar em contato | To get in touch
 Preferred-Languages: pt-br
 Contact:    mailto:rfc9116@schuffner.com.br
@@ -13,11 +13,11 @@ Expires:    2025-06-03T01:02:00.000Z
 -----BEGIN PGP SIGNATURE-----
 Version: Keybase OpenPGP v2.1.13
 
-wsBcBAABCgAGBQJmXUjQAAoJENTjHTNigwFWfwEIALC6RFXMTxi+Fl6JHsgEa8xw
-g2VfuaaJzwoX7hfLeh/62jbXk0cptIRW/86zopGDO8FtxUnIvUaTTlB0kf/4e4Z4
-tb9iRnl2nDZ0BG4bjCsEDvBJfEd+lHDdYvHYNmTjxAIl5q4GXOJKhetp7tVs5hfT
-1RSlNQQXRoBVlnHSjsXgta7/QkK8H6aXK6eULebE1qlmHVUsgdQ52Mm38bvFpRbD
-YpgPjx7qEFig996909MgkOazK5FyJ1SOAh2y2DJmJUgOdyN/SMa77WguqhjBdV7D
-DTr/osLKGsO08Kcd8ttyhiHCZJ7oSzIR5Wn5fyRvGaxSrscjjPkl3vFbCLZ9zkE=
-=04oR
+wsBcBAABCgAGBQJmXWI8AAoJENTjHTNigwFWx4UIAKWEkVBRqK6GsM5oa8u4qNdv
+KsAGKC7Lg8F885yknbPpAzM94VrhQ8zEz2fagqmVsJPKvtO48b2I5mRBtnz9jJ76
+WyqyBNEOjcd1mNaB9aM1gMrAfNHkAPalkR3QIBfJQXiPx60s3b5et8yPT7UOMwyy
+imTDivOQ64lV/Ax5HNbEve1Cz/7I86dyeAh673mRCcbo6TiF/87Ek7PsvkQNfPoI
+A5k0mGTwSQmREQT2d3FZHm9bM7mnkfBZrFf4s/mvMctfaZ1YPE57vwxvITO0rsdj
+K/1vBXBVQCNcguV9vagvnksCT33PWEl1tb7d4Xrk6jOlWeYBxKr8ZXrsQUF0GN0=
+=vbcG
 -----END PGP SIGNATURE-----
