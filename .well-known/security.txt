@@ -4,7 +4,7 @@ Hash: SHA512
 # Para entrar em contato | To get in touch
 Preferred-Languages: pt-BR, en
 Contact:    mailto:rfc9116@schuffner.com.br
-# CE
+# GB
 Canonical:  https://schuffner.com.br/.well-known/security.txt
 Encryption: https://schuffner.com.br/pgp/key.asc
 Expires:    2025-06-03T01:02:00.000Z
